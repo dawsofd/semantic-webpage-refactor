@@ -1,6 +1,8 @@
 # SEMANTIC WEBPAGE REFACTOR
 UCB-VIRT-FSF-PT-07-2024-U-LOLC Homework Assignment #1
 
+- [Link to webpage](https://dawsofd.github.io/semantic-webpage-refactor/index.html)
+
 ## User Story
 
 ```
